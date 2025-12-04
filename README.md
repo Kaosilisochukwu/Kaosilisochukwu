@@ -5,7 +5,7 @@ I build secure, scalable, and high-performance applications — with real-world 
 ---
 
 ### 🧩 Tech Stack  
-**Backend:** C#, .NET (Core & Framework), ASP.NET Core, Web APIs, Entity Framework, LINQ, Microservices, REST, Ruby.
+**Backend:** C#, .NET (Core & Framework), ASP.NET Core, Web APIs, Entity Framework, LINQ, Microservices, REST, Ruby  
 **Frontend:** React, TypeScript, JavaScript, Redux, Responsive UI  
 **Data & Storage:** MS SQL Server, PostgreSQL, Redis  
 **Cloud & DevOps:** Azure, Docker, CI/CD, GitHub Actions, Azure DevOps  
