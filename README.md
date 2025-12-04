@@ -1,4 +1,4 @@
-# 👋 Hi, I’m a Full-Stack Software Engineer
+# 👋 Hi, I’m a Kaosilisochukwu Nwizu
 
 I build secure, scalable, and high-performance applications — with real-world experience across **fintech** and **medtech** industries.
 
